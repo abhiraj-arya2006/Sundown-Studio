@@ -1,0 +1,13 @@
+First of all we have used the animations in the website so that 
+we could make it responsive
+
+locomotive js -- it is used for the smooth scrolling of the website
+gsap- this library is used for creating animation and effect for 
+the website...
+for adding locomotive we go locomotive js cdn and copy the script
+for adding gsap we go gsap cdn and copy the scripts link
+
+skew property used to transform the size and shape
+
+js for adding the photos in the end part and for the responsiveness
+swiper js for making a slider in the website
